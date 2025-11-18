@@ -1,0 +1,8 @@
+==================================================
+LOGGING INICIALIZADO EM: 2025-11-18 19:51:48
+==================================================
+[2025-11-18 19:51:48] [EVENTO] Transação 123 iniciada.
+[2025-11-18 19:51:48] [AUDITORIA] Usuário 'admin' acessou o painel.
+[2025-11-18 19:51:48] [ERRO] Falha de conexão com o DB na thread paralela.
+[2025-11-18 19:51:48] [INFO] Instância do Logger: 1936702207 em uso.
+[2025-11-18 19:51:48] [INFO] Instância do Logger: 1936702207 em uso.
